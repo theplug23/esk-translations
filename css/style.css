@@ -119,11 +119,11 @@ ul li {
     object-fit: cover;
 }
 
+
 .navbar-nav .nav-link {
     color: #fff;
     margin: 0 5px;
-    font-size: 20px;
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .navbar.navcolor {
@@ -610,7 +610,7 @@ ul li {
     line-height: 80px;
 }
 .home4_list{
-	    list-style-image: url(../images/home4_list_img.png);
+	list-style-image: url(../images/obj-star.png);
 }
 .popup-youtube img{
 	margin-right:20px;
